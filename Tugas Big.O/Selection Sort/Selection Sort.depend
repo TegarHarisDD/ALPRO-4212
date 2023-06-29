@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1688021279 source:c:\users\tegar\tugas big.o\selection sort\main.cpp
+	<iostream>
+	<chrono>
+

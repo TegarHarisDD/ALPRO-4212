@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1688020041 source:c:\users\tegar\tugas big.o\bubble sort\main.cpp
+	<iostream>
+	<chrono>
+
